@@ -1,6 +1,25 @@
-# convert
+<div align="center">
 
-CLI personal para convertir imágenes con FFmpeg.
+   # convert
+
+</div>
+
+**CLI personal para conversiones rápidas de imágenes, usando FFmpeg como backend.**
+
+[![.NET 9](https://img.shields.io/badge/.NET-9.0-512BD4?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![Windows x64](https://img.shields.io/badge/platform-Windows%20x64-0078D4?logo=windows&logoColor=white)](https://github.com/TeoMarquez/convert-imageType)
+[![FFmpeg](https://img.shields.io/badge/backend-FFmpeg-007808?logo=ffmpeg&logoColor=white)](https://ffmpeg.org/)
+
+## Requisitos
+
+### Para ejecutar
+
+- Windows x64
+- FFmpeg disponible en `PATH`, o `FFMPEG_PATH`
+
+### Para compilar
+
+- .NET 9 SDK
 
 ## Uso
 
